@@ -51,11 +51,11 @@ const About = () => {
                     </article>
                 </div>
                 <p>
-                    I'm a recent Engineering Science graduate with a Master's Degree, specializing in Deep Learning, Computer Vision, and Natural Language Processing (NLP).
-                     Holding an F1 OPT status and an EAD card, I'm eligible to work in the US immediately. My passion lies in creating intelligent systems, discovering AI solutions, and uncovering patterns in real industry data.
+                    I'm a recent Engineering Science graduate with a Master's Degree, specializing in Deep Learning, Computer Vision, and Natural Language Processing (NLP). My passion lies in creating intelligent systems, discovering AI solutions, and uncovering patterns in real industry data.
                      <br/>I excel in collaborating with others, am an agile and fast learner, and have a knack for debugging code. Remaining calm under pressure and possessing strong communication skills are my strengths.<br/>
                       In addition, I bring a data-driven mindset and storytelling abilities to the table, essential for success in the field of data science and data analytics.
-                    I'm eager to apply my expertise to cutting-edge technology and contribute to projects by crafting data-informed narratives that drive strategic solutions.
+                    I'm eager to apply my expertise to cutting-edge technology and contribute to projects by crafting data-informed narratives that drive strategic solutions.<br/>
+                    Holding an F1 OPT status and an EAD card, I'm eligible to work in the US immediately.
                 </p>
                 <a href='#contact' className='btn btn-primary'>Let's Talk</a>
             </div>
