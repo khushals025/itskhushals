@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/itskhushals/static/css/main.0768ca1e.css",
-    "main.js": "/itskhushals/static/js/main.16465315.js",
+    "main.css": "/itskhushals/static/css/main.a74ce8f6.css",
+    "main.js": "/itskhushals/static/js/main.f80adc78.js",
     "static/media/naruto.png": "/itskhushals/static/media/naruto.20ef7fac0cbefe93a29b.png",
     "static/media/background_2.png": "/itskhushals/static/media/background_2.cf03c2cd586700fae041.png",
     "static/media/Linkedin-2 Background Removed Background Removed.png": "/itskhushals/static/media/Linkedin-2 Background Removed Background Removed.58405bedace098f04da8.png",
@@ -14,11 +14,11 @@
     "static/media/3.jpeg": "/itskhushals/static/media/3.17a69ec9783680669d34.jpeg",
     "static/media/8.jpeg": "/itskhushals/static/media/8.f06200ed1bd074801ac6.jpeg",
     "index.html": "/itskhushals/index.html",
-    "main.0768ca1e.css.map": "/itskhushals/static/css/main.0768ca1e.css.map",
-    "main.16465315.js.map": "/itskhushals/static/js/main.16465315.js.map"
+    "main.a74ce8f6.css.map": "/itskhushals/static/css/main.a74ce8f6.css.map",
+    "main.f80adc78.js.map": "/itskhushals/static/js/main.f80adc78.js.map"
   },
   "entrypoints": [
-    "static/css/main.0768ca1e.css",
-    "static/js/main.16465315.js"
+    "static/css/main.a74ce8f6.css",
+    "static/js/main.f80adc78.js"
   ]
 }
