@@ -36,6 +36,12 @@ const Services = () => {
                 <h4>Scala</h4>
               </div>
             </article>
+            <article className='services__details'>
+              <VscVerifiedFilled className='services__details-icon'/>
+              <div>
+                <h4>MATLAB</h4>
+              </div>
+            </article>
           </div>
         </div>
         {/*END OF PROGRAMMING*/}
@@ -207,13 +213,13 @@ const Services = () => {
             <article className='services__details'>
               <VscVerifiedFilled className='services__details-icon'/>
               <div>
-                <h4>MATLAB</h4>
+                <h4>SAS</h4>
               </div>
             </article>
             <article className='services__details'>
               <VscVerifiedFilled className='services__details-icon'/>
               <div>
-                <h4>Spark</h4>
+                <h4>IBM SPSS</h4>
               </div>
             </article>
             <article className='services__details'>
@@ -225,7 +231,7 @@ const Services = () => {
             <article className='services__details'>
               <VscVerifiedFilled className='services__details-icon'/>
               <div>
-                <h4>Azure DataBricks</h4>
+                <h4>Excel</h4>
               </div>
             </article>
             <article className='services__details'>
@@ -246,7 +252,7 @@ const Services = () => {
           </div>
           {/*END OF ANALYSIS*/}
           <div className='services__bi'>
-            <h3>Visualization | BI</h3>
+            <h3>Story Telling | BI</h3>
             <div className='services__content'>
             <article className='services__details'>
               <VscVerifiedFilled className='services__details-icon'/>
