@@ -21,10 +21,11 @@ const Experience = () => {
             <h3><span className="title-text">Ilibrium</span><span className="role-text"> | AI/ML Software Engineer</span></h3>
             <small>Apr 2023 - Present</small>
             <p>
+              <TbPointFilled/> Developing AI solutions for medical image obfuscation, protecting patient’s data during WebRTC screen sharing. <br />
+              <TbPointFilled/> Applied differential privacy and data masking techniques for robust patient health record protection.<br/>
               <TbPointFilled/> Integrated Text-to-Speech, Speech-to-Text, Text-to-Image APIs, boosting website engagement by 30%. <br />
               <TbPointFilled/> Deployed AI solutions on AWS (API Gateway, Lambda, S3) for enhanced scalability and serverless compute. <br />
-              <TbPointFilled/> Implemented real-time ETL pipeline with Apache Kafka, enabling secure sharing of medical data. <br />
-              <TbPointFilled/> Applied differential privacy and data masking techniques for robust patient health record protection.
+              
             </p>
             <span className='left-container-arrow'></span>
           </div>
@@ -60,15 +61,30 @@ const Experience = () => {
         <div className='experience__container right-container'>
           <BiSolidDice1 className='righticon'/>
           <div className='text-box'>
-            <h3><span className="title-text">Evox Systems Pvt. Ltd.</span><span className="role-text"> | Junior Data Scientist</span></h3>
-            <small>Jun 2020 - Dec 2021</small>
+            <h3><span className="title-text">Evox Systems Pvt. Ltd.</span><span className="role-text"> | Data Scientist</span></h3>
+            <small>Sep 2019 - Dec 2021</small>
             <p>
-              <TbPointFilled/> Constructed end-to-end ETL pipelines on Azure Databricks using pyspark, scala,python, integrated PostgreSQL systems, leveraging a  data lake for scalable data transformation for huge chunks of data. Orchestrated seamlessly using Azure Data Factory. <br />
+              <TbPointFilled/> Spearheaded end-to-end data modeling tasks. Commencing data cleaning via ETL pipelines on Azure Databricks.<br/>
+              <TbPointFilled/>Optimized ad policies, boosting KPIs (Click-Through Rate, Engagement Rate) for 9.3% higher user engagement.<br/>
+              <TbPointFilled/>Analyzed customer churn through logistic regression, XGBoost, random forest, SVM, Bernoulli Naive bayes.<br/>
+              <TbPointFilled/>Collaboratively Deployed customer segmentation models using k-means, mean-shift clustering, Docker, git.<br/>
+              <TbPointFilled/> Evaluated & optimized model with hypothesis testing, A/B testing, boosting macro average F1 score to 92%. <br />
               <TbPointFilled/> Executed SQL queries, crafted interactive BI dashboards(PowerBI,Tableau,Excel),back data driven decision making via business reports. <br />
-              <TbPointFilled/> Worked with a cross functional team of 6 to perform customer churn, used logistic regression, XGBoost, random forest, SVM, Bernoulli Naive bayes, achieved ROC-AUC score to evaluate accuracy of 93%, A/B testing to further boost accuracy up to 96%. <br />
-              <TbPointFilled/> Implemented CI/CD processes, deployed models for estimating customer segmentation using unsupervised techniques like k-means, mean-shift clustering, evaluated macro average F1 score of 92%. Used AWS sagemaker for deployment.
             </p>
             <span className='right-container-arrow'></span>
+          </div>
+        </div>
+
+        <div className='experience__container left-container'>
+          <BiSolidDice1 className='icon'/>
+          <div className='text-box'>
+            <h3><span className="title-text">Evox Systems Pvt. Ltd.</span><span className="role-text"> | Data Science Intern</span></h3>
+            <small>Jun 2018 - Sep 2019</small>
+            <p>
+              <TbPointFilled/> Integrated Salesforce database with Tableau to automate company’s sales reports reducing 9-man hours per week. <br/>
+              <TbPointFilled/> Collaborated with a team of 5 following CI/CD practices to address latest client requirements via Jenkins, Docker.<br/>
+            </p>
+            <span className='left-container-arrow'></span>
           </div>
         </div>
 
