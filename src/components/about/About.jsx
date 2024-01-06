@@ -1,5 +1,6 @@
 import React from 'react'
 import './about.css'
+/*import ME from '/Users/khushal/Desktop/react-portfolio-website-1/src/assets/Linkedin-2 Background Removed Background Removed.png'*/
 import ME from '/Users/khushal/Desktop/react-portfolio-website-1/src/assets/Linkedin-2 Background Removed Background Removed.png'
 import {FaAward} from 'react-icons/fa'
 import {RiGraduationCapFill} from 'react-icons/ri'
