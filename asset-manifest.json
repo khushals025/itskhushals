@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/itskhushals/static/css/main.a74ce8f6.css",
-    "main.js": "/itskhushals/static/js/main.60e4d79e.js",
+    "main.js": "/itskhushals/static/js/main.7a149a87.js",
     "static/media/naruto.png": "/itskhushals/static/media/naruto.20ef7fac0cbefe93a29b.png",
     "static/media/background_2.png": "/itskhushals/static/media/background_2.cf03c2cd586700fae041.png",
     "static/media/Linkedin-2 Background Removed Background Removed.png": "/itskhushals/static/media/Linkedin-2 Background Removed Background Removed.9cca4f0b2e5daafd058c.png",
@@ -15,10 +15,10 @@
     "static/media/8.jpeg": "/itskhushals/static/media/8.f06200ed1bd074801ac6.jpeg",
     "index.html": "/itskhushals/index.html",
     "main.a74ce8f6.css.map": "/itskhushals/static/css/main.a74ce8f6.css.map",
-    "main.60e4d79e.js.map": "/itskhushals/static/js/main.60e4d79e.js.map"
+    "main.7a149a87.js.map": "/itskhushals/static/js/main.7a149a87.js.map"
   },
   "entrypoints": [
     "static/css/main.a74ce8f6.css",
-    "static/js/main.60e4d79e.js"
+    "static/js/main.7a149a87.js"
   ]
 }
