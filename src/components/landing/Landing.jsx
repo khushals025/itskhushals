@@ -14,7 +14,7 @@ const landing = () => {
             <div className='containerH header__container'>
                 <h2>Hello I'm</h2>
                 <h1 className='hello'>Khushal Sharma</h1>
-                <h2 className='text-light'>Data Scientist | Data Analyst </h2>
+                <h2 className='text-light'>Data Engineer | AI & ML Engineer </h2>
                 <CTA />
                 <HeaderSocials />
                 <a href='#contact' className='scroll__down'>Scroll Down</a>
